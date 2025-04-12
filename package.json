@@ -1,0 +1,37 @@
+{
+  "name": "sacco-limited",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stripe/stripe-js": "^7.0.0",
+    "@tailwindcss/vite": "^4.1.3",
+    "axios": "^1.8.4",
+    "bcryptjs": "^3.0.2",
+    "cloudinary": "^2.6.0",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "framer-motion": "^12.6.5",
+    "ioredis": "^5.6.1",
+    "jsonwebtoken": "^9.0.2",
+    "lucide-react": "^0.487.0",
+    "mongoose": "^8.13.2",
+    "react": "^19.1.0",
+    "react-confetti": "^6.4.0",
+    "react-dom": "^19.1.0",
+    "react-hot-toast": "^2.5.2",
+    "react-router-dom": "^7.5.0",
+    "recharts": "^2.15.2",
+    "zustand": "^5.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
